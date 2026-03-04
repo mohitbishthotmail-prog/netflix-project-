@@ -1,19 +1,27 @@
 # 🎬 Netflix Clone Project
 
-A Netflix-inspired web application showcasing 
-movie categories and UI components.
+A full-stack Netflix-inspired web application with user authentication, movie categories, and a responsive UI — built with PHP & MySQL backend.
 
-## 🛠️ Built With
-- HTML5
-- CSS3
-- JavaScript
-- php
+🛠️ Built With
 
-## ✨ Features
-- Netflix-style homepage UI
-- Movie category sections
-- Responsive design
-- Interactive UI components
+Frontend
+
+HTML5
+CSS3
+JavaScript
+Bootstrap
+
+Backend
+
+PHP
+MySQL
+
+✨ Features
+
+🔐 User Login & Signup (with PHP & MySQL)
+🎥 Movie category sections
+📱 Fully responsive design
+🎨 Netflix-style homepage UI
 
   ## 👨‍💻 Author
 **Mohit Bisht**
