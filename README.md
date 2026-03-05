@@ -23,6 +23,8 @@ MySQL
 📱 Fully responsive design
 🎨 Netflix-style homepage UI
 
+🔗 Live Demo: 
+
   ## 👨‍💻 Author
 **Mohit Bisht**
 - GitHub: [@mohitbishthotmail-prog](https://github.com/mohitbishthotmail-prog)
