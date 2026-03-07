@@ -23,7 +23,7 @@ MySQL
 📱 Fully responsive design
 🎨 Netflix-style homepage UI
 
-🔗 Live Demo: 
+🔗 Live Demo: https://mohit.hbiscloud.in/netflix
 
   ## 👨‍💻 Author
 **Mohit Bisht**
